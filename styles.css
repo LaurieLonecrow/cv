@@ -1,0 +1,159 @@
+/******************************** HTML SELECTORS *****************************/
+a {color: #EAF6F6;
+margin: 10 20;
+text-decoration: none;}
+
+
+body {margin:0;
+  background-color: #EAF6F6;
+  text-align: center;
+  color: #40514E;
+}
+
+div {
+  margin: 0;
+}
+
+h1 {
+  margin: 50px ;
+  font-family: 'Sacramento', sans-serif;
+  color: #66BFBF;
+  padding-top: 100px;
+}
+
+h2 {font-family:'Montserrat', sans-serif;
+color: #66BFBF;
+
+}
+
+h3 {font-family: 'Montserrat', sans-serif;
+color:#11999E;
+
+}
+
+hr {width: 4%;
+border-width: 5px 0 0 0;
+border-style: dotted;
+border-color: #EAF6F6;
+margin: 50px auto 50px auto;
+}
+
+
+p{ font-family: 'Montserrat', sans-serif;
+margin-bottom: 70px;
+line-height: 2;
+}
+
+/******************************** CLASS SELECTORS *****************************/
+
+.bottom-cloud {
+width: 20%;
+margin-right: 500px;}
+
+.bottom-container {padding-top: 50px;
+background-color: #66BFBF;}
+
+.btn {font-family: 'Montserrat',sans-serif;
+background: #66BFBF;
+   text-align: center;
+}
+
+.btn {
+	box-shadow: 0 0 0 0 #3dc21b;
+	background:linear-gradient(to bottom, #66BFBF 5%, #5cbf2a 100%);
+	background-color:#66BFBF;
+	border-radius:20px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat', sans-serif;
+	font-size:1rem;
+  font-weight: bold;
+	padding:16px 31px;
+	text-decoration:none;
+  margin-bottom: 50px;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+	background-color:#5cbf2a;
+}
+
+.contact-me {margin-top: 50px;}
+
+.copyright {margin-bottom: 0;
+padding: 20px;
+font-size: 1rem;}
+
+.footer-link { font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+padding: 3%;}
+
+.junior {text-decoration: underline;
+}
+
+.middle-container {background-color: white;
+}
+
+.mountian {padding-top: 50px;
+  width: 50%;
+}
+
+.profile-paragraph { color:#40514E;
+  width: 40%;
+  text-align: center;
+  margin-left: 30%;
+}
+
+.profile-pic { padding-top: 10%;
+  width: 20rem;
+}
+
+.puppy-pic {width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+
+.skills { padding-top: 50px;
+}
+
+.skill-row { width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+
+}
+
+.subtitle {font-family: 'Montserrat', sans-serif;
+  font-size: 1.56rem;
+  color: #66BFBF;
+  font-weight: normal;
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+
+.title {font-family: 'Sacramento', sans-serif;
+  color: #66BFBF;
+  font-size: 4.5rem;
+  margin-bottom: 5px;
+}
+
+.top-container {background-color: #E0FFFF;
+  padding-top: 50px;
+  position: relative;
+}
+
+.top-cloud {position: absolute;
+  margin-left: 200px;
+width: 20%;}
+
+.web-design-pic {width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+
+
+
+
+
+
+
+/******************************** ID SELECTORS *****************************/
