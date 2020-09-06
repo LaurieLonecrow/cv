@@ -19,10 +19,12 @@ h1 {
   font-family: 'Sacramento', sans-serif;
   color: #66BFBF;
   padding-top: 100px;
+	
 }
 
 h2 {font-family:'Montserrat', sans-serif;
 color: #66BFBF;
+	font-size: 2rem;
 
 }
 
@@ -71,8 +73,8 @@ background: #66BFBF;
   font-weight: bold;
 	padding:16px 31px;
 	text-decoration:none;
-  margin-bottom: 50px;
-}
+  margin-bottom: 50px;}
+
 .btn:hover {
 	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
 	background-color:#5cbf2a;
@@ -132,7 +134,7 @@ padding: 3%;}
 
 .title {font-family: 'Sacramento', sans-serif;
   color: #66BFBF;
-  font-size: 4.5rem;
+  font-size: 5.5rem;
   margin-bottom: 5px;
 }
 
